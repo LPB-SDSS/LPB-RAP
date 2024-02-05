@@ -1,0 +1,18 @@
+LUT01,built-up
+LUT02,cropland-annual
+LUT03,pasture
+LUT04,agroforestry
+LUT05,plantation
+LUT06,herbaceous vegetation
+LUT07,shrubs
+LUT08,disturbed forest
+LUT09,undisturbed forest
+LUT10,"moss, lichen, bare, sparse vegetation"
+LUT11,herbaceous wetland
+LUT12,water
+LUT13,no input
+LUT14,cropland-annual - - abandoned
+LUT15,pasture - - abandoned
+LUT16,agroforestry - - abandoned
+LUT17,net forest - - deforested
+LUT18,plantation - - harvested

@@ -1,0 +1,167 @@
+time_step,Aspect,pixels,percentage
+1,per time step,0,0.0
+1,accumulated,0,
+2,per time step,3957,0.24
+2,accumulated,3957,
+3,per time step,4694,0.28
+3,accumulated,8651,
+4,per time step,4632,0.28
+4,accumulated,13283,
+5,per time step,4747,0.28
+5,accumulated,18030,
+6,per time step,4819,0.29
+6,accumulated,22849,
+7,per time step,4838,0.29
+7,accumulated,27687,
+8,per time step,4872,0.29
+8,accumulated,32559,
+9,per time step,5057,0.3
+9,accumulated,37616,
+10,per time step,4958,0.3
+10,accumulated,42574,
+11,per time step,4997,0.3
+11,accumulated,47571,
+12,per time step,5024,0.3
+12,accumulated,52595,
+13,per time step,5205,0.31
+13,accumulated,57800,
+14,per time step,4984,0.3
+14,accumulated,62784,
+15,per time step,5041,0.3
+15,accumulated,67825,
+16,per time step,5199,0.31
+16,accumulated,73024,
+17,per time step,5354,0.32
+17,accumulated,78378,
+18,per time step,5027,0.3
+18,accumulated,83405,
+19,per time step,2769,0.16
+19,accumulated,86174,
+20,per time step,4083,0.24
+20,accumulated,90257,
+21,per time step,5857,0.35
+21,accumulated,96114,
+22,per time step,6827,0.41
+22,accumulated,102941,
+23,per time step,7725,0.46
+23,accumulated,110666,
+24,per time step,7331,0.44
+24,accumulated,117997,
+25,per time step,7542,0.45
+25,accumulated,125539,
+26,per time step,5267,0.31
+26,accumulated,130806,
+27,per time step,6514,0.39
+27,accumulated,137320,
+28,per time step,7053,0.42
+28,accumulated,144373,
+29,per time step,7092,0.42
+29,accumulated,151465,
+30,per time step,7442,0.44
+30,accumulated,158907,
+31,per time step,6661,0.4
+31,accumulated,165568,
+32,per time step,7100,0.42
+32,accumulated,172668,
+33,per time step,7812,0.47
+33,accumulated,180480,
+34,per time step,6463,0.39
+34,accumulated,186943,
+35,per time step,6507,0.39
+35,accumulated,193450,
+36,per time step,6998,0.42
+36,accumulated,200448,
+37,per time step,7563,0.45
+37,accumulated,208011,
+38,per time step,7706,0.46
+38,accumulated,215717,
+39,per time step,7502,0.45
+39,accumulated,223219,
+40,per time step,7304,0.44
+40,accumulated,230523,
+41,per time step,7146,0.43
+41,accumulated,237669,
+42,per time step,6993,0.42
+42,accumulated,244662,
+43,per time step,6974,0.42
+43,accumulated,251636,
+44,per time step,1787,0.11
+44,accumulated,253423,
+45,per time step,1811,0.11
+45,accumulated,255234,
+46,per time step,1716,0.1
+46,accumulated,256950,
+47,per time step,1661,0.1
+47,accumulated,258611,
+48,per time step,1553,0.09
+48,accumulated,260164,
+49,per time step,1663,0.1
+49,accumulated,261827,
+50,per time step,1646,0.1
+50,accumulated,263473,
+51,per time step,1637,0.1
+51,accumulated,265110,
+52,per time step,1525,0.09
+52,accumulated,266635,
+53,per time step,1751,0.1
+53,accumulated,268386,
+54,per time step,3219,0.19
+54,accumulated,271605,
+55,per time step,3016,0.18
+55,accumulated,274621,
+56,per time step,3236,0.19
+56,accumulated,277857,
+57,per time step,3248,0.19
+57,accumulated,281105,
+58,per time step,3145,0.19
+58,accumulated,284250,
+59,per time step,3426,0.2
+59,accumulated,287676,
+60,per time step,3206,0.19
+60,accumulated,290882,
+61,per time step,3492,0.21
+61,accumulated,294374,
+62,per time step,3257,0.19
+62,accumulated,297631,
+63,per time step,3257,0.19
+63,accumulated,300888,
+64,per time step,4758,0.28
+64,accumulated,305646,
+65,per time step,4780,0.28
+65,accumulated,310426,
+66,per time step,4692,0.28
+66,accumulated,315118,
+67,per time step,5016,0.3
+67,accumulated,320134,
+68,per time step,4893,0.29
+68,accumulated,325027,
+69,per time step,5187,0.31
+69,accumulated,330214,
+70,per time step,4905,0.29
+70,accumulated,335119,
+71,per time step,4916,0.29
+71,accumulated,340035,
+72,per time step,5040,0.3
+72,accumulated,345075,
+73,per time step,5113,0.3
+73,accumulated,350188,
+74,per time step,5913,0.35
+74,accumulated,356101,
+75,per time step,6033,0.36
+75,accumulated,362134,
+76,per time step,6270,0.37
+76,accumulated,368404,
+77,per time step,6417,0.38
+77,accumulated,374821,
+78,per time step,6495,0.39
+78,accumulated,381316,
+79,per time step,7073,0.42
+79,accumulated,388389,
+80,per time step,7613,0.45
+80,accumulated,396002,
+81,per time step,7002,0.42
+81,accumulated,403004,
+82,per time step,7046,0.42
+82,accumulated,410050,
+83,per time step,7225,0.43
+83,accumulated,417275,

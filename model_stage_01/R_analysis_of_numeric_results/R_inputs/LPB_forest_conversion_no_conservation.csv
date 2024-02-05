@@ -1,0 +1,153 @@
+time_step,Aspect,pixels,percentage
+1,per time step,0,0.0
+1,accumulated,0,
+2,per time step,4762,0.28
+2,accumulated,4762,
+3,per time step,5883,0.35
+3,accumulated,10645,
+4,per time step,6417,0.38
+4,accumulated,17062,
+5,per time step,6856,0.41
+5,accumulated,23918,
+6,per time step,7290,0.43
+6,accumulated,31208,
+7,per time step,7088,0.42
+7,accumulated,38296,
+8,per time step,8083,0.48
+8,accumulated,46379,
+9,per time step,7592,0.45
+9,accumulated,53971,
+10,per time step,7157,0.43
+10,accumulated,61128,
+11,per time step,6933,0.41
+11,accumulated,68061,
+12,per time step,7461,0.44
+12,accumulated,75522,
+13,per time step,7110,0.42
+13,accumulated,82632,
+14,per time step,7002,0.42
+14,accumulated,89634,
+15,per time step,7122,0.42
+15,accumulated,96756,
+16,per time step,7762,0.46
+16,accumulated,104518,
+17,per time step,6449,0.38
+17,accumulated,110967,
+18,per time step,6325,0.38
+18,accumulated,117292,
+19,per time step,7403,0.44
+19,accumulated,124695,
+20,per time step,7120,0.42
+20,accumulated,131815,
+21,per time step,7563,0.45
+21,accumulated,139378,
+22,per time step,7925,0.47
+22,accumulated,147303,
+23,per time step,7975,0.48
+23,accumulated,155278,
+24,per time step,7570,0.45
+24,accumulated,162848,
+25,per time step,6752,0.4
+25,accumulated,169600,
+26,per time step,7449,0.44
+26,accumulated,177049,
+27,per time step,7140,0.43
+27,accumulated,184189,
+28,per time step,6895,0.41
+28,accumulated,191084,
+29,per time step,6815,0.41
+29,accumulated,197899,
+30,per time step,7006,0.42
+30,accumulated,204905,
+31,per time step,6683,0.4
+31,accumulated,211588,
+32,per time step,6799,0.41
+32,accumulated,218387,
+33,per time step,7215,0.43
+33,accumulated,225602,
+34,per time step,7137,0.43
+34,accumulated,232739,
+35,per time step,7163,0.43
+35,accumulated,239902,
+36,per time step,7010,0.42
+36,accumulated,246912,
+37,per time step,1550,0.09
+37,accumulated,248462,
+38,per time step,1610,0.1
+38,accumulated,250072,
+39,per time step,1609,0.1
+39,accumulated,251681,
+40,per time step,1628,0.1
+40,accumulated,253309,
+41,per time step,1481,0.09
+41,accumulated,254790,
+42,per time step,1698,0.1
+42,accumulated,256488,
+43,per time step,1733,0.1
+43,accumulated,258221,
+44,per time step,1770,0.11
+44,accumulated,259991,
+45,per time step,1599,0.1
+45,accumulated,261590,
+46,per time step,1739,0.1
+46,accumulated,263329,
+47,per time step,3206,0.19
+47,accumulated,266535,
+48,per time step,3022,0.18
+48,accumulated,269557,
+49,per time step,3405,0.2
+49,accumulated,272962,
+50,per time step,3412,0.2
+50,accumulated,276374,
+51,per time step,3225,0.19
+51,accumulated,279599,
+52,per time step,3643,0.22
+52,accumulated,283242,
+53,per time step,3455,0.21
+53,accumulated,286697,
+54,per time step,3614,0.22
+54,accumulated,290311,
+55,per time step,3463,0.21
+55,accumulated,293774,
+56,per time step,3519,0.21
+56,accumulated,297293,
+57,per time step,4995,0.3
+57,accumulated,302288,
+58,per time step,4514,0.27
+58,accumulated,306802,
+59,per time step,4401,0.26
+59,accumulated,311203,
+60,per time step,4636,0.28
+60,accumulated,315839,
+61,per time step,4552,0.27
+61,accumulated,320391,
+62,per time step,4795,0.29
+62,accumulated,325186,
+63,per time step,4663,0.28
+63,accumulated,329849,
+64,per time step,4763,0.28
+64,accumulated,334612,
+65,per time step,4817,0.29
+65,accumulated,339429,
+66,per time step,4892,0.29
+66,accumulated,344321,
+67,per time step,5781,0.34
+67,accumulated,350102,
+68,per time step,6043,0.36
+68,accumulated,356145,
+69,per time step,6126,0.36
+69,accumulated,362271,
+70,per time step,6183,0.37
+70,accumulated,368454,
+71,per time step,6179,0.37
+71,accumulated,374633,
+72,per time step,6312,0.38
+72,accumulated,380945,
+73,per time step,6596,0.39
+73,accumulated,387541,
+74,per time step,6720,0.4
+74,accumulated,394261,
+75,per time step,6797,0.4
+75,accumulated,401058,
+76,per time step,6659,0.4
+76,accumulated,407717,

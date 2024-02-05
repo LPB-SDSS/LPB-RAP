@@ -1,0 +1,9 @@
+"LPB-RAP additional suggested restricted areas" ECUADOR Esmeraldas SSP2-4.5 "enforced_conservation scenario"
+Position,Value
+Population_peak_year: ,2100
+List_of_restricted_LUTs: ,"[8, 9, 10, 11, 12, 23, 24]"
+Existing_restricted_areas_area: ,414987
+Existing_restricted_areas_percentage_of_landscape: ,24.72
+Suggested_restricted_areas_area:,261660
+Potential_total_area_restricted_areas: ,676647
+Potential_total_area_restricted_areas_percentage_of_landscape:,40.31

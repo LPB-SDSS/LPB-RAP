@@ -1,0 +1,32 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="PCRASTER_VALUESCALE">VS_NOMINAL</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>0.5384615384615384</HistMin>
+        <HistMax>13.46153846153846</HistMax>
+        <BucketCount>13</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>52930|14290|373629|352654|119725|1398|79|143441|551788|611|11687|54568|1688</HistCounts>
+      </HistItem>
+      <HistItem>
+        <HistMin>0.53125</HistMin>
+        <HistMax>16.46875</HistMax>
+        <BucketCount>16</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>52966|12353|322966|304836|119725|4901|428|331290|431993|908|24142|54567|1688|303|7934|7488</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">13</MDI>
+      <MDI key="STATISTICS_MEAN">6.5130087316682</MDI>
+      <MDI key="STATISTICS_MINIMUM">1</MDI>
+      <MDI key="STATISTICS_STDDEV">2.7578733636372</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">52.4</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

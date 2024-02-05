@@ -1,0 +1,14 @@
+"LPB correction step log file" ECUADOR Esmeraldas SSP2-4.5 "enforced_conservation scenario"
+"INITIAL MAP BEFORE CORRECTION STEP"
+YEAR,population,singular cities pixels,singular settlements pixels,singular streets pixels,with a share of 53.87 % population that is smallholder,ha demand cropland-annual,ha demand pasture,ha demand agroforestry,initial pixels of built-up,initial pixels of cropland-annual,initial pixels of pasture,initial pixels of agroforestry,initial pixels of plantation,initial pixels of herbaceous vegetation,initial pixels of shrubs,initial pixels of disturbed forest,initial pixels of undisturbed forest,"initial pixels of moss, lichen, bare, sparse vegetation",initial pixels of herbaceous wetland,initial pixels of water,initial pixels of no input,initial pixels of cropland-annual - - abandoned,initial pixels of pasture - - abandoned,initial pixels of agroforestry - - abandoned,initial pixels of net forest - - deforested,initial pixels of plantation - - harvested
+2018,457430,11,827,48649,246418,11668,305071,287945,4475,213933,212966,213113,125944,4384,147,65548,762091,951,18751,54551,1634,0,0,0,0,0
+
+INITIAL SIMULATED MAP AFTER CORRECTION STEP
+YEAR,population,singular cities pixels,singular settlements pixels,singular streets pixels,with a share of 53.87 % population that is smallholder,ha demand cropland-annual,ha demand pasture,ha demand agroforestry,simulated pixels of built-up,simulated pixels of cropland-annual,simulated pixels of pasture,simulated pixels of agroforestry,simulated pixels of plantation,simulated pixels of herbaceous vegetation,simulated pixels of shrubs,simulated pixels of disturbed forest,simulated pixels of undisturbed forest,"simulated pixels of moss, lichen, bare, sparse vegetation",simulated pixels of herbaceous wetland,simulated pixels of water,simulated pixels of no input,simulated pixels of cropland-annual - - abandoned,simulated pixels of pasture - - abandoned,simulated pixels of agroforestry - - abandoned,simulated pixels of net forest - - deforested,simulated pixels of plantation - - harvested
+2018,457430,11,827,48649,246418,11668,305071,287945,52628,11668,305071,287945,119725,4029,137,365363,456414,936,18476,54458,1634,4,0,0,0,0
+
+PLEASE NOTE:
+"Only anthropogenic features (cities, settlements and streets),"
+"agriculture demand (cropland-annual, pasture and agroforestry) distribution and"
+anthropogenic impact on forest (change from undisturbed to disturbed)
+are implemented in the correction step.

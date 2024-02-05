@@ -1,0 +1,167 @@
+time_step,Aspect,pixels
+1,per time step,30
+1,accumulated,30
+2,per time step,38
+2,accumulated,68
+3,per time step,36
+3,accumulated,104
+4,per time step,34
+4,accumulated,138
+5,per time step,32
+5,accumulated,170
+6,per time step,30
+6,accumulated,200
+7,per time step,29
+7,accumulated,229
+8,per time step,27
+8,accumulated,256
+9,per time step,40
+9,accumulated,296
+10,per time step,43
+10,accumulated,339
+11,per time step,42
+11,accumulated,381
+12,per time step,43
+12,accumulated,424
+13,per time step,38
+13,accumulated,462
+14,per time step,35
+14,accumulated,497
+15,per time step,32
+15,accumulated,529
+16,per time step,31
+16,accumulated,560
+17,per time step,45
+17,accumulated,605
+18,per time step,44
+18,accumulated,649
+19,per time step,44
+19,accumulated,693
+20,per time step,45
+20,accumulated,738
+21,per time step,40
+21,accumulated,778
+22,per time step,36
+22,accumulated,814
+23,per time step,34
+23,accumulated,848
+24,per time step,35
+24,accumulated,883
+25,per time step,80
+25,accumulated,963
+26,per time step,78
+26,accumulated,1041
+27,per time step,62
+27,accumulated,1103
+28,per time step,63
+28,accumulated,1166
+29,per time step,56
+29,accumulated,1222
+30,per time step,54
+30,accumulated,1276
+31,per time step,56
+31,accumulated,1332
+32,per time step,52
+32,accumulated,1384
+33,per time step,58
+33,accumulated,1442
+34,per time step,47
+34,accumulated,1489
+35,per time step,39
+35,accumulated,1528
+36,per time step,36
+36,accumulated,1564
+37,per time step,32
+37,accumulated,1596
+38,per time step,29
+38,accumulated,1625
+39,per time step,28
+39,accumulated,1653
+40,per time step,25
+40,accumulated,1678
+41,per time step,29
+41,accumulated,1707
+42,per time step,28
+42,accumulated,1735
+43,per time step,24
+43,accumulated,1759
+44,per time step,20
+44,accumulated,1779
+45,per time step,20
+45,accumulated,1799
+46,per time step,19
+46,accumulated,1818
+47,per time step,19
+47,accumulated,1837
+48,per time step,19
+48,accumulated,1856
+49,per time step,21
+49,accumulated,1877
+50,per time step,22
+50,accumulated,1899
+51,per time step,18
+51,accumulated,1917
+52,per time step,19
+52,accumulated,1936
+53,per time step,19
+53,accumulated,1955
+54,per time step,15
+54,accumulated,1970
+55,per time step,14
+55,accumulated,1984
+56,per time step,14
+56,accumulated,1998
+57,per time step,16
+57,accumulated,2014
+58,per time step,15
+58,accumulated,2029
+59,per time step,13
+59,accumulated,2042
+60,per time step,12
+60,accumulated,2054
+61,per time step,11
+61,accumulated,2065
+62,per time step,11
+62,accumulated,2076
+63,per time step,10
+63,accumulated,2086
+64,per time step,9
+64,accumulated,2095
+65,per time step,10
+65,accumulated,2105
+66,per time step,9
+66,accumulated,2114
+67,per time step,9
+67,accumulated,2123
+68,per time step,7
+68,accumulated,2130
+69,per time step,7
+69,accumulated,2137
+70,per time step,7
+70,accumulated,2144
+71,per time step,7
+71,accumulated,2151
+72,per time step,6
+72,accumulated,2157
+73,per time step,6
+73,accumulated,2163
+74,per time step,6
+74,accumulated,2169
+75,per time step,5
+75,accumulated,2174
+76,per time step,5
+76,accumulated,2179
+77,per time step,5
+77,accumulated,2184
+78,per time step,5
+78,accumulated,2189
+79,per time step,4
+79,accumulated,2193
+80,per time step,4
+80,accumulated,2197
+81,per time step,4
+81,accumulated,2201
+82,per time step,5
+82,accumulated,2206
+83,per time step,4
+83,accumulated,2210

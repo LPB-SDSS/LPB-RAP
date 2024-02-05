@@ -1,0 +1,24 @@
+
+
+
+
+
+-0 landuse
+ 1 built-up
+ 2 cropland-annual
+ 3 pasture
+ 4 agroforestry
+ 5 plantation
+ 6 herbaceous vegetation
+ 7 shrubs
+ 8 disturbed forest
+ 9 undisturbed forest
+10 moss, lichen, bare, sparse vegetation
+11 herbaceous wetland
+12 water
+13 no input
+14 cropland-annual - - abandoned
+15 pasture - - abandoned
+16 agroforestry - - abandoned
+17 net forest - - deforested
+18 plantation - - harvested
