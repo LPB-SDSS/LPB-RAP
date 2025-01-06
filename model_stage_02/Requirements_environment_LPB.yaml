@@ -1,0 +1,13 @@
+name: LPBRAPms1
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pcraster>=4.3.3
+  - spyder
+  - gdal
+  - pandas
+  - pylandstats
+  - julia

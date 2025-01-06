@@ -1,0 +1,333 @@
+time_step,class,pixels,percentage,specification
+1,restricted_area,414987,24.72,percentage of landscape
+1,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+1,total_new_landuse_restricted_areas,1370,0.33,percentage of restricted area
+1,total_new_landuse_restricted_areas_on_former_forest,663,0.16,percentage of restricted area
+2,restricted_area,414987,24.72,percentage of landscape
+2,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+2,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+2,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+3,restricted_area,414987,24.72,percentage of landscape
+3,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+3,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+3,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+4,restricted_area,414987,24.72,percentage of landscape
+4,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+4,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+4,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+5,restricted_area,414987,24.72,percentage of landscape
+5,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+5,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+5,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+6,restricted_area,414987,24.72,percentage of landscape
+6,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+6,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+6,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+7,restricted_area,414987,24.72,percentage of landscape
+7,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+7,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+7,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+8,restricted_area,414987,24.72,percentage of landscape
+8,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+8,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+8,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+9,restricted_area,414987,24.72,percentage of landscape
+9,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+9,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+9,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+10,restricted_area,414987,24.72,percentage of landscape
+10,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+10,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+10,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+11,restricted_area,414987,24.72,percentage of landscape
+11,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+11,total_new_landuse_restricted_areas,2,0.0,percentage of restricted area
+11,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+12,restricted_area,414987,24.72,percentage of landscape
+12,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+12,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+12,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+13,restricted_area,414987,24.72,percentage of landscape
+13,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+13,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+13,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+14,restricted_area,414987,24.72,percentage of landscape
+14,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+14,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+14,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+15,restricted_area,414987,24.72,percentage of landscape
+15,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+15,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+15,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+16,restricted_area,414987,24.72,percentage of landscape
+16,total_landuse_restricted_areas,49830,12.01,percentage of restricted area
+16,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+16,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+17,restricted_area,414987,24.72,percentage of landscape
+17,total_landuse_restricted_areas,49826,12.01,percentage of restricted area
+17,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+17,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+18,restricted_area,414987,24.72,percentage of landscape
+18,total_landuse_restricted_areas,49803,12.0,percentage of restricted area
+18,total_new_landuse_restricted_areas,1,0.0,percentage of restricted area
+18,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+19,restricted_area,414987,24.72,percentage of landscape
+19,total_landuse_restricted_areas,49794,12.0,percentage of restricted area
+19,total_new_landuse_restricted_areas,1,0.0,percentage of restricted area
+19,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+20,restricted_area,414987,24.72,percentage of landscape
+20,total_landuse_restricted_areas,49790,12.0,percentage of restricted area
+20,total_new_landuse_restricted_areas,3,0.0,percentage of restricted area
+20,total_new_landuse_restricted_areas_on_former_forest,2,0.0,percentage of restricted area
+21,restricted_area,414987,24.72,percentage of landscape
+21,total_landuse_restricted_areas,49785,12.0,percentage of restricted area
+21,total_new_landuse_restricted_areas,5,0.0,percentage of restricted area
+21,total_new_landuse_restricted_areas_on_former_forest,5,0.0,percentage of restricted area
+22,restricted_area,414987,24.72,percentage of landscape
+22,total_landuse_restricted_areas,49774,11.99,percentage of restricted area
+22,total_new_landuse_restricted_areas,5,0.0,percentage of restricted area
+22,total_new_landuse_restricted_areas_on_former_forest,5,0.0,percentage of restricted area
+23,restricted_area,414987,24.72,percentage of landscape
+23,total_landuse_restricted_areas,49778,12.0,percentage of restricted area
+23,total_new_landuse_restricted_areas,20,0.0,percentage of restricted area
+23,total_new_landuse_restricted_areas_on_former_forest,14,0.0,percentage of restricted area
+24,restricted_area,414987,24.72,percentage of landscape
+24,total_landuse_restricted_areas,49778,12.0,percentage of restricted area
+24,total_new_landuse_restricted_areas,10,0.0,percentage of restricted area
+24,total_new_landuse_restricted_areas_on_former_forest,8,0.0,percentage of restricted area
+25,restricted_area,414987,24.72,percentage of landscape
+25,total_landuse_restricted_areas,49717,11.98,percentage of restricted area
+25,total_new_landuse_restricted_areas,7,0.0,percentage of restricted area
+25,total_new_landuse_restricted_areas_on_former_forest,5,0.0,percentage of restricted area
+26,restricted_area,414987,24.72,percentage of landscape
+26,total_landuse_restricted_areas,49708,11.98,percentage of restricted area
+26,total_new_landuse_restricted_areas,4,0.0,percentage of restricted area
+26,total_new_landuse_restricted_areas_on_former_forest,4,0.0,percentage of restricted area
+27,restricted_area,414987,24.72,percentage of landscape
+27,total_landuse_restricted_areas,49705,11.98,percentage of restricted area
+27,total_new_landuse_restricted_areas,7,0.0,percentage of restricted area
+27,total_new_landuse_restricted_areas_on_former_forest,6,0.0,percentage of restricted area
+28,restricted_area,414987,24.72,percentage of landscape
+28,total_landuse_restricted_areas,49702,11.98,percentage of restricted area
+28,total_new_landuse_restricted_areas,8,0.0,percentage of restricted area
+28,total_new_landuse_restricted_areas_on_former_forest,6,0.0,percentage of restricted area
+29,restricted_area,414987,24.72,percentage of landscape
+29,total_landuse_restricted_areas,49692,11.97,percentage of restricted area
+29,total_new_landuse_restricted_areas,8,0.0,percentage of restricted area
+29,total_new_landuse_restricted_areas_on_former_forest,7,0.0,percentage of restricted area
+30,restricted_area,414987,24.72,percentage of landscape
+30,total_landuse_restricted_areas,49688,11.97,percentage of restricted area
+30,total_new_landuse_restricted_areas,4,0.0,percentage of restricted area
+30,total_new_landuse_restricted_areas_on_former_forest,4,0.0,percentage of restricted area
+31,restricted_area,414987,24.72,percentage of landscape
+31,total_landuse_restricted_areas,49682,11.97,percentage of restricted area
+31,total_new_landuse_restricted_areas,8,0.0,percentage of restricted area
+31,total_new_landuse_restricted_areas_on_former_forest,6,0.0,percentage of restricted area
+32,restricted_area,414987,24.72,percentage of landscape
+32,total_landuse_restricted_areas,49685,11.97,percentage of restricted area
+32,total_new_landuse_restricted_areas,14,0.0,percentage of restricted area
+32,total_new_landuse_restricted_areas_on_former_forest,12,0.0,percentage of restricted area
+33,restricted_area,414987,24.72,percentage of landscape
+33,total_landuse_restricted_areas,49744,11.99,percentage of restricted area
+33,total_new_landuse_restricted_areas,82,0.02,percentage of restricted area
+33,total_new_landuse_restricted_areas_on_former_forest,58,0.01,percentage of restricted area
+34,restricted_area,414987,24.72,percentage of landscape
+34,total_landuse_restricted_areas,49781,12.0,percentage of restricted area
+34,total_new_landuse_restricted_areas,37,0.01,percentage of restricted area
+34,total_new_landuse_restricted_areas_on_former_forest,4,0.0,percentage of restricted area
+35,restricted_area,414987,24.72,percentage of landscape
+35,total_landuse_restricted_areas,49781,12.0,percentage of restricted area
+35,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+35,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+36,restricted_area,414987,24.72,percentage of landscape
+36,total_landuse_restricted_areas,49781,12.0,percentage of restricted area
+36,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+36,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+37,restricted_area,414987,24.72,percentage of landscape
+37,total_landuse_restricted_areas,49781,12.0,percentage of restricted area
+37,total_new_landuse_restricted_areas,2,0.0,percentage of restricted area
+37,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+38,restricted_area,414987,24.72,percentage of landscape
+38,total_landuse_restricted_areas,49775,11.99,percentage of restricted area
+38,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+38,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+39,restricted_area,414987,24.72,percentage of landscape
+39,total_landuse_restricted_areas,49730,11.98,percentage of restricted area
+39,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+39,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+40,restricted_area,414987,24.72,percentage of landscape
+40,total_landuse_restricted_areas,49687,11.97,percentage of restricted area
+40,total_new_landuse_restricted_areas,1,0.0,percentage of restricted area
+40,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+41,restricted_area,414987,24.72,percentage of landscape
+41,total_landuse_restricted_areas,49631,11.96,percentage of restricted area
+41,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+41,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+42,restricted_area,414987,24.72,percentage of landscape
+42,total_landuse_restricted_areas,49631,11.96,percentage of restricted area
+42,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+42,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+43,restricted_area,414987,24.72,percentage of landscape
+43,total_landuse_restricted_areas,49631,11.96,percentage of restricted area
+43,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+43,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+44,restricted_area,414987,24.72,percentage of landscape
+44,total_landuse_restricted_areas,49630,11.96,percentage of restricted area
+44,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+44,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+45,restricted_area,414987,24.72,percentage of landscape
+45,total_landuse_restricted_areas,49630,11.96,percentage of restricted area
+45,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+45,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+46,restricted_area,414987,24.72,percentage of landscape
+46,total_landuse_restricted_areas,49627,11.96,percentage of restricted area
+46,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+46,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+47,restricted_area,414987,24.72,percentage of landscape
+47,total_landuse_restricted_areas,49623,11.96,percentage of restricted area
+47,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+47,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+48,restricted_area,414987,24.72,percentage of landscape
+48,total_landuse_restricted_areas,49619,11.96,percentage of restricted area
+48,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+48,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+49,restricted_area,414987,24.72,percentage of landscape
+49,total_landuse_restricted_areas,49618,11.96,percentage of restricted area
+49,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+49,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+50,restricted_area,414987,24.72,percentage of landscape
+50,total_landuse_restricted_areas,49617,11.96,percentage of restricted area
+50,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+50,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+51,restricted_area,414987,24.72,percentage of landscape
+51,total_landuse_restricted_areas,49616,11.96,percentage of restricted area
+51,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+51,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+52,restricted_area,414987,24.72,percentage of landscape
+52,total_landuse_restricted_areas,49612,11.96,percentage of restricted area
+52,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+52,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+53,restricted_area,414987,24.72,percentage of landscape
+53,total_landuse_restricted_areas,49611,11.95,percentage of restricted area
+53,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+53,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+54,restricted_area,414987,24.72,percentage of landscape
+54,total_landuse_restricted_areas,49611,11.95,percentage of restricted area
+54,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+54,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+55,restricted_area,414987,24.72,percentage of landscape
+55,total_landuse_restricted_areas,49611,11.95,percentage of restricted area
+55,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+55,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+56,restricted_area,414987,24.72,percentage of landscape
+56,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+56,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+56,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+57,restricted_area,414987,24.72,percentage of landscape
+57,total_landuse_restricted_areas,49611,11.95,percentage of restricted area
+57,total_new_landuse_restricted_areas,1,0.0,percentage of restricted area
+57,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+58,restricted_area,414987,24.72,percentage of landscape
+58,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+58,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+58,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+59,restricted_area,414987,24.72,percentage of landscape
+59,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+59,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+59,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+60,restricted_area,414987,24.72,percentage of landscape
+60,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+60,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+60,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+61,restricted_area,414987,24.72,percentage of landscape
+61,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+61,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+61,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+62,restricted_area,414987,24.72,percentage of landscape
+62,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+62,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+62,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+63,restricted_area,414987,24.72,percentage of landscape
+63,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+63,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+63,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+64,restricted_area,414987,24.72,percentage of landscape
+64,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+64,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+64,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+65,restricted_area,414987,24.72,percentage of landscape
+65,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+65,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+65,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+66,restricted_area,414987,24.72,percentage of landscape
+66,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+66,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+66,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+67,restricted_area,414987,24.72,percentage of landscape
+67,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+67,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+67,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+68,restricted_area,414987,24.72,percentage of landscape
+68,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+68,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+68,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+69,restricted_area,414987,24.72,percentage of landscape
+69,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+69,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+69,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+70,restricted_area,414987,24.72,percentage of landscape
+70,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+70,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+70,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+71,restricted_area,414987,24.72,percentage of landscape
+71,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+71,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+71,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+72,restricted_area,414987,24.72,percentage of landscape
+72,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+72,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+72,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+73,restricted_area,414987,24.72,percentage of landscape
+73,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+73,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+73,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+74,restricted_area,414987,24.72,percentage of landscape
+74,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+74,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+74,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+75,restricted_area,414987,24.72,percentage of landscape
+75,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+75,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+75,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+76,restricted_area,414987,24.72,percentage of landscape
+76,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+76,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+76,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+77,restricted_area,414987,24.72,percentage of landscape
+77,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+77,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+77,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+78,restricted_area,414987,24.72,percentage of landscape
+78,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+78,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+78,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+79,restricted_area,414987,24.72,percentage of landscape
+79,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+79,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+79,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+80,restricted_area,414987,24.72,percentage of landscape
+80,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+80,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+80,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+81,restricted_area,414987,24.72,percentage of landscape
+81,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+81,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+81,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+82,restricted_area,414987,24.72,percentage of landscape
+82,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+82,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+82,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
+83,restricted_area,414987,24.72,percentage of landscape
+83,total_landuse_restricted_areas,49610,11.95,percentage of restricted area
+83,total_new_landuse_restricted_areas,0,0.0,percentage of restricted area
+83,total_new_landuse_restricted_areas_on_former_forest,0,0.0,percentage of restricted area
